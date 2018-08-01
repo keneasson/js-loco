@@ -1,0 +1,19 @@
+{
+  "name": "js-loco",
+  "version": "1.0.0",
+  "description": "A set of test scripts for trying DevOps stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keneasson/js-loco.git"
+  },
+  "author": "Ken Easson",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/keneasson/js-loco/issues"
+  },
+  "homepage": "https://github.com/keneasson/js-loco#readme"
+}
